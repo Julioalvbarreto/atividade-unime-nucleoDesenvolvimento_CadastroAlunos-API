@@ -1,0 +1,34 @@
+{
+  "excluidos": [
+    {
+      "nome": "Ricardo Trindade",
+      "ra": "452396",
+      "curso": "Direito",
+      "id": 3
+    },
+    {
+      "nome": "Maicon Douglas",
+      "ra": "45314",
+      "curso": "Odontologia",
+      "id": 4
+    },
+    {
+      "nome": "Jose Silva",
+      "ra": "667447",
+      "curso": "Engenharia da computação",
+      "id": 5
+    },
+    {
+      "nome": "Matheus Bezerra",
+      "ra": "4539687",
+      "curso": "Odontologia",
+      "id": 6
+    },
+    {
+      "nome": "Gabriel Silva",
+      "ra": "459368",
+      "curso": "Direito",
+      "id": 7
+    }
+  ]
+}

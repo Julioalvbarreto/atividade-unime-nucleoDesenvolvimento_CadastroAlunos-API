@@ -1,0 +1,46 @@
+{
+  "alunos": [
+    {
+      "nome": "Julio Alves",
+      "ra": "45127",
+      "curso": "Administração",
+      "id": 1
+    },
+    {
+      "nome": "Anna Bella",
+      "ra": "666",
+      "curso": "Direito",
+      "id": 4
+    },
+    {
+      "nome": "Vanessa da Mata",
+      "ra": "674774",
+      "curso": "Sistemas da informação",
+      "id": 6
+    },
+    {
+      "nome": "Fernanda",
+      "ra": "453121",
+      "curso": "Sistemas da informação",
+      "id": 7
+    },
+    {
+      "nome": "Jozeane Aragão",
+      "ra": "457891",
+      "curso": "Odontologia",
+      "id": 8
+    },
+    {
+      "nome": "Erica Silva",
+      "ra": "453974",
+      "curso": "Administração",
+      "id": 9
+    },
+    {
+      "nome": "Paloma dos Santos",
+      "ra": "4513726",
+      "curso": "Engenharia da computação",
+      "id": 10
+    }
+  ]
+}
